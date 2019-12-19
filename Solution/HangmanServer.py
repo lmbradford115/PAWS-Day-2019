@@ -12,7 +12,7 @@ missedLetters = ''
 correctLetters = ''
 gameOver = False
 
-TCP_IP = 'localhost' #loopback address
+TCP_IP = '' #loopback address
 TCP_PORT = 5005 ## Port to listen on (non-privileged ports are > 1023)
 BUFFER_SIZE = 4096  #bytes
 
